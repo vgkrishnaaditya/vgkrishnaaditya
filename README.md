@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vgkrishnaaditya
 - 
-- 👀 I’m interested in Core Computer Science like Computer Networks for Digital Communication, Operating Systems, Core Data Structures, CrCS(Cryptography & Cybersecurity), Web Scraping using Python, Core Java, C, Python.
+- 👀 I’m interested in Core Computer Science like Computer Networks for Digital Communication, Operating Systems, Core Data Structures, CrCS(Cryptography & Cybersecurity), Web Scraping, Crawling using Python, Core Java, C, Python.
 - 
 - 🌱 I’m currently learning Core concepts of Cryptography.
 - 
