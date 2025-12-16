@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @vgkrishnaaditya
 - 
-- 👀 I’m interested in Core Computer Science like Computer Networks for Digital Communication, Operating Systems, Core Data Structures, CrCS(Cryptography & Cybersecurity), Web Scraping, Crawling using Python, Core Java, C, Python.
+- 👀 I’m interested in Core Computer Science and Application-oriented-Cybersecurity R&D involving concepts like Offensive Security, Application Security, IoT, IoE, Vehicular and Power Systems Security, ICS Security, UAV Security, System Hardening, C, Python, Web Scraping.
 - 
-- 🌱 I’m currently learning Core concepts of Cryptography.
+- 🌱 I’m currently learning Advanced Concepts of Offensive Security and polishing my past-learnt Core Concepts on the same.
 - 
-- 💞️ I’m looking to work on Research Projects on Non-Linear Cryptography
+- 💞️ I’m looking to work on Research Projects on Application Security
 - 
 - 📫 You can reach me at:-
 - 
