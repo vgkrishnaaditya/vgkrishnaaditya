@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @vgkrishnaaditya
 - 
-- 👀 I’m interested in Core Computer Science and Application-oriented-Cybersecurity R&D involving concepts like Offensive Security, Application Security, IoT, IoE, Vehicular and Power Systems Security, ICS Security, UAV Security, System Hardening, C, Python, Web Scraping.
+- 👀 I’m interested in Application-oriented-Cybersecurity R&D involving concepts like Offensive Security, Application Security, Heterogenous Ad Hoc Network Security (WANET, MANET, VANET, FANET and UANET), IoE Security, CPS Security, System Hardening, C and Java Programming, FinTech Security, Secure Programming, Secure System Design, Open-Source Systems and anything and everything related to Computer Science Enginnering. 
 - 
-- 🌱 I’m currently learning Advanced Concepts of Offensive Security and polishing my past-learnt Core Concepts on the same.
+- 🌱 I’m currently learning Heterogenous Ad Hoc Network Security, Advanced Concepts of Offensive & Defensive Security and polishing my past-learnt Core Concepts on the same.
 - 
-- 💞️ I’m looking to work on Research Projects on Application Security
+- 💞️ I’m always open to discuss about how Cybersecurity can be implemented in a lightweight and efficient manner without compromising existing workloads.
 - 
 - 📫 You can reach me at:-
 - 
